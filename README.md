@@ -1,0 +1,2 @@
+# Hosts
+Energized protection hosts
